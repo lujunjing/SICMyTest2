@@ -1,0 +1,16 @@
+PODS:
+  - SICMyTest2 (0.1.0)
+
+DEPENDENCIES:
+  - SICMyTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  SICMyTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SICMyTest2: 9fc23a267eeb84065d192eb4cb104a1bc15dd790
+
+PODFILE CHECKSUM: 98ffa2718075ac21e3d2bc9acbff32426495de30
+
+COCOAPODS: 1.9.3
