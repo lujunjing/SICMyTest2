@@ -1,4 +1,5 @@
 # SICMyTest2
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/lujunjing/SICMyTest2.svg?style=flat)](https://travis-ci.org/lujunjing/SICMyTest2)
 [![Version](https://img.shields.io/cocoapods/v/SICMyTest2.svg?style=flat)](https://cocoapods.org/pods/SICMyTest2)
@@ -27,3 +28,6 @@ lujunjing, 370634018@qq.com
 ## License
 
 SICMyTest2 is available under the MIT license. See the LICENSE file for more info.
+=======
+SICMyTest2
+>>>>>>> bcae68aefea730fe9bf0e57bd4fc2de0e850b1f4
