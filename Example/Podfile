@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SICMyTest2_Example' do
+  pod 'SICMyTest2', :path => '../'
+
+  target 'SICMyTest2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
